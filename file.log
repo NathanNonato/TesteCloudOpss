@@ -1,0 +1,27 @@
+2022-03-01 12:16:46,633 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2022-03-01 12:16:49,180 django.server INFO     "GET /clientes/ HTTP/1.1" 200 10692
+2022-03-01 12:16:54,691 django.server INFO     "GET /clientes/47638121-98f2-4e69-8cb8-2d4d2c76ec4e HTTP/1.1" 301 0
+2022-03-01 12:16:54,773 django.server INFO     "GET /clientes/47638121-98f2-4e69-8cb8-2d4d2c76ec4e/ HTTP/1.1" 200 12081
+2022-03-01 12:17:01,309 django.server INFO     "PUT /clientes/47638121-98f2-4e69-8cb8-2d4d2c76ec4e/ HTTP/1.1" 200 12075
+2022-03-01 12:17:48,959 django.server INFO     "DELETE /clientes/47638121-98f2-4e69-8cb8-2d4d2c76ec4e/ HTTP/1.1" 200 11377
+2022-03-01 12:17:50,796 django.request WARNING  Not Found: /cliente
+2022-03-01 12:17:50,798 django.server WARNING  "GET /cliente HTTP/1.1" 404 3290
+2022-03-01 12:19:16,983 django.request WARNING  Not Found: /clientees
+2022-03-01 12:19:16,985 django.server WARNING  "GET /clientees HTTP/1.1" 404 3296
+2022-03-01 12:19:20,661 django.server INFO     "GET /clientes/ HTTP/1.1" 200 10214
+2022-03-01 12:19:50,834 django.utils.autoreload INFO     C:\Users\natha\Documents\TesteCloudoops\cloudoops\settings.py changed, reloading.
+2022-03-01 12:19:51,445 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2022-03-01 12:19:53,852 django.server INFO     "GET /clientes/ HTTP/1.1" 200 10214
+2022-03-01 12:19:56,006 django.server INFO     "GET /clientes/ HTTP/1.1" 200 10214
+2022-03-01 12:19:56,708 django.server INFO     "GET /clientes/ HTTP/1.1" 200 10214
+2022-03-01 12:19:57,169 django.server INFO     "GET /clientes/ HTTP/1.1" 200 10214
+2022-03-01 12:20:17,633 django.server INFO     "GET /clientes/ HTTP/1.1" 200 10214
+2022-03-01 12:20:24,194 django.request WARNING  Not Found: /clien
+2022-03-01 12:20:24,195 django.server WARNING  "GET /clien HTTP/1.1" 404 3284
+2022-03-01 12:20:40,542 django.utils.autoreload INFO     C:\Users\natha\Documents\TesteCloudoops\cloudoops\settings.py changed, reloading.
+2022-03-01 12:20:41,230 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2022-03-01 12:20:45,420 django.server INFO     "GET /clientes/ HTTP/1.1" 200 10214
+2022-03-01 12:20:57,055 django.server INFO     "GET /clientes/ HTTP/1.1" 200 10214
+2022-03-01 12:20:58,966 django.server INFO     "GET /clientes/ HTTP/1.1" 200 10214
+2022-03-01 12:21:02,621 django.request WARNING  Not Found: /clien
+2022-03-01 12:21:02,623 django.server WARNING  "GET /clien HTTP/1.1" 404 3284
