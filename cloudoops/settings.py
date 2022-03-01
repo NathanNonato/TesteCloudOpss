@@ -77,8 +77,12 @@ WSGI_APPLICATION = 'cloudoops.wsgi.application'
 
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backends.sqlite3',
-        'NAME': BASE_DIR / 'db.sqlite3',
+        'ENGINE': 'djongo',
+        'CLIENT': {
+            "host": "mongodb+srv://username:password@cluster0.uaslx.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+            "name": "databasename",
+            "authMechanism": "SCRAM-SHA-1" 
+        },
     }
 }
 
