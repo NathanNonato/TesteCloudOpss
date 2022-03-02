@@ -38,7 +38,8 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'rest_framework',
-    'clientes'
+    'clientes',
+    'drf_yasg',
 ]
 
 MIDDLEWARE = [
@@ -79,9 +80,9 @@ DATABASES = {
     'default': {
         'ENGINE': 'djongo',
         'CLIENT': {
-            "host": "mongodb+srv://username:password@cluster0.uaslx.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
-            "name": "databasename",
-            "authMechanism": "SCRAM-SHA-1" 
+            "host": "mongodb+srv://nathannonato:12345@cluster0.uaslx.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+            "name": "mytestdb2",
+            "authMechanism": "SCRAM-SHA-1"
         },
     }
 }

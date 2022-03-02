@@ -46,3 +46,35 @@
 2022-03-01 13:10:55,836 django.server WARNING  "POST /clientes/ HTTP/1.1" 400 10021
 2022-03-01 13:11:00,946 django.server INFO     "POST /clientes/ HTTP/1.1" 201 10207
 2022-03-01 13:11:07,671 django.server INFO     "GET /clientes/ HTTP/1.1" 200 10679
+2022-03-02 10:30:43,732 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2022-03-02 10:42:14,807 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2022-03-02 10:42:18,608 django.server INFO     "GET / HTTP/1.1" 200 5268
+2022-03-02 10:42:18,714 django.server INFO     "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 304 0
+2022-03-02 10:42:18,719 django.server INFO     "GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 304 0
+2022-03-02 10:42:18,724 django.server INFO     "GET /static/rest_framework/css/prettify.css HTTP/1.1" 304 0
+2022-03-02 10:42:18,728 django.server INFO     "GET /static/rest_framework/js/csrf.js HTTP/1.1" 304 0
+2022-03-02 10:42:18,728 django.server INFO     "GET /static/rest_framework/css/default.css HTTP/1.1" 304 0
+2022-03-02 10:42:18,729 django.server INFO     "GET /static/rest_framework/js/jquery-3.5.1.min.js HTTP/1.1" 304 0
+2022-03-02 10:42:18,732 django.server INFO     "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 304 0
+2022-03-02 10:42:18,733 django.server INFO     "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 304 0
+2022-03-02 10:42:18,733 django.server INFO     "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 304 0
+2022-03-02 10:42:18,734 django.server INFO     "GET /static/rest_framework/js/default.js HTTP/1.1" 304 0
+2022-03-02 10:42:18,863 django.server INFO     "GET /static/rest_framework/img/grid.png HTTP/1.1" 304 0
+2022-03-02 10:42:19,075 django.request WARNING  Not Found: /favicon.ico
+2022-03-02 10:42:19,076 django.server WARNING  "GET /favicon.ico HTTP/1.1" 404 3436
+2022-03-02 10:42:24,853 django.server INFO     "GET /swagger HTTP/1.1" 301 0
+2022-03-02 10:42:24,880 django.server INFO     "GET /swagger/ HTTP/1.1" 200 2220
+2022-03-02 10:42:25,325 django.server INFO     "GET /static/drf-yasg/style.css HTTP/1.1" 200 1047
+2022-03-02 10:42:25,335 django.server INFO     "GET /static/drf-yasg/insQ.min.js HTTP/1.1" 200 2093
+2022-03-02 10:42:25,339 django.server INFO     "GET /static/drf-yasg/url-polyfill.min.js HTTP/1.1" 200 6092
+2022-03-02 10:42:25,345 django.server INFO     "GET /static/drf-yasg/immutable.min.js HTTP/1.1" 200 56904
+2022-03-02 10:42:25,350 django.server INFO     "GET /static/drf-yasg/swagger-ui-init.js HTTP/1.1" 200 14715
+2022-03-02 10:42:25,351 django.server INFO     "GET /static/drf-yasg/swagger-ui-dist/swagger-ui.css HTTP/1.1" 200 143074
+2022-03-02 10:42:25,357 django.server INFO     "GET /static/drf-yasg/swagger-ui-dist/swagger-ui-standalone-preset.js HTTP/1.1" 200 329649
+2022-03-02 10:42:25,365 django.server INFO     "GET /static/drf-yasg/swagger-ui-dist/swagger-ui-bundle.js HTTP/1.1" 200 1038857
+2022-03-02 10:42:25,568 django.server INFO     "GET /swagger/?format=openapi HTTP/1.1" 200 2908
+2022-03-02 10:42:25,570 django.server INFO     "GET /static/drf-yasg/swagger-ui-dist/favicon-32x32.png HTTP/1.1" 200 628
+2022-03-02 10:46:08,515 django.server INFO     "POST /clientes/ HTTP/1.1" 201 215
+2022-03-02 10:46:10,862 django.server INFO     "POST /clientes/ HTTP/1.1" 201 215
+2022-03-02 10:50:31,157 django.server INFO     "GET /clientes/ HTTP/1.1" 200 886
+2022-03-02 10:50:50,368 django.server INFO     "GET /clientes/c869dbd9-7db3-4fc1-a0e6-369c9cc103b8/ HTTP/1.1" 200 215
