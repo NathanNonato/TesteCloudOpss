@@ -80,3 +80,8 @@ python manage.py runserver
 
 Made with 💙 by Nathan Nonato 👨‍💻 [See my LinkedIn](https://www.linkedin.com/in/nathannonatobaptista/)
 
+![FuncionamentodaAPI](https://user-images.githubusercontent.com/96794310/156693988-2fec1696-7ac5-4134-9082-4bc5ef1ef104.gif)
+
+![FuncionamentodoFront](https://user-images.githubusercontent.com/96794310/156694065-45c27005-b996-4c97-a0f7-bed3bb6d685b.gif)
+
+
