@@ -9,6 +9,7 @@
  <a href="#technologies">Technologies</a>
  <a href="#run">Run</a>
  <a href="#author">Author</a>
+ <a href="#gifs">Gifs</a>
 </p>
 
  
@@ -79,6 +80,8 @@ python manage.py runserver
 # Author
 
 Made with 💙 by Nathan Nonato 👨‍💻 [See my LinkedIn](https://www.linkedin.com/in/nathannonatobaptista/)
+
+# Gifs
 
 ![FuncionamentodaAPI](https://user-images.githubusercontent.com/96794310/156693988-2fec1696-7ac5-4134-9082-4bc5ef1ef104.gif)
 
