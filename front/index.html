@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Clientes CloudOpss</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="icon" href="https://cloudopss.com.br/wp-content/uploads/2021/12/Logo_horizontal-1.png">
+
+</head>
+
+<body>
+
+    <header>
+        <img src="https://cloudopss.com.br/wp-content/uploads/2021/12/Logo_horizontal-1.png" class="logo"
+            alt="cloudopss">
+    </header>
+
+    <section>
+
+        <form name="cadastro">
+            <label>Nome
+                <input type="text" name="nome">
+            </label>
+            <label>Email
+                <input type="email" name="email">
+            </label>
+            <label>Telefone
+                <input type="text" name="numero">
+            </label>
+            <label>Endereço
+                <input type="text" name="endereco">
+            </label>
+            <label>Profissão
+                <input type="text" name="profissao">
+            </label>
+            <label>Curriculo
+                <input type="file" name="curriculo">
+            </label>
+
+            <input type="submit" value="Cadastrar">
+        </form>
+
+    </section>
+
+    <section>
+        <div class="scroll">
+
+            <table name="clientes">
+                <thead>
+                    <tr>
+                        <th>
+                            Nome
+                        </th>
+                        <th>
+                            Email
+                        </th>
+                        <th>
+                            Telefone
+                        </th>
+                        <th>
+                            Endereço
+                        </th>
+                        <th>
+                            Profissão
+                        </th>
+                        <th>
+                            Curriculo
+                        </th>
+                    </tr>
+                </thead>
+                <tbody>
+                    
+                </tbody>
+            </table>
+
+        </div>
+
+    </section>
+
+    <script type="module" src="script.mjs"></script>
+</body>
+
+</html>
