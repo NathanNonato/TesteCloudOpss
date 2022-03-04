@@ -1,7 +1,0 @@
-2022-03-04 00:17:30,118 django.utils.autoreload INFO     Watching for file changes with StatReloader
-2022-03-04 00:17:31,271 django.server INFO     "GET / HTTP/1.1" 200 5268
-2022-03-04 00:17:32,793 django.server INFO     "GET /clientes/ HTTP/1.1" 200 10743
-2022-03-04 00:17:34,549 django.server INFO     "GET /clientes/ HTTP/1.1" 200 10743
-2022-03-04 00:17:44,229 django.server INFO     "GET /clientes/99161b38-54b0-4652-a74c-f99f4f6b6258 HTTP/1.1" 301 0
-2022-03-04 00:17:44,384 django.server INFO     "GET /clientes/99161b38-54b0-4652-a74c-f99f4f6b6258/ HTTP/1.1" 200 12862
-2022-03-04 00:17:46,636 django.server INFO     "DELETE /clientes/99161b38-54b0-4652-a74c-f99f4f6b6258/ HTTP/1.1" 200 11635
