@@ -4,7 +4,7 @@
 
 <p align="center">Desafio CloudOpss</p>
  <p align="center">
- <a href="#sobre">Sobre</a>
+ <a href="#about">About</a>
  <a href="#tasks">Tasks</a>
  <a href="#technologies">Technologies</a>
  <a href="#run">Run</a>
@@ -13,7 +13,7 @@
 </p>
 
  
-# Sobre
+# About
 List of CloudOpss Solutions company selection exercises.
 
 
