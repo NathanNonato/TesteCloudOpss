@@ -62,8 +62,8 @@ DATABASES = {
     'default': {
         'ENGINE': 'djongo',
         'CLIENT': {
-            "host": "mongodb+srv://nathannonato:12345@cluster0.uaslx.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
-            "name": "mytestdb2",
+            "host": "mongodb+srv://username:password@cluster0.uaslx.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+            "name": "database name",
             "authMechanism": "SCRAM-SHA-1"
         },
     }
