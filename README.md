@@ -1,8 +1,8 @@
-<h1>Desafio CloudOpss</h1>
+<h1>CloudOpss Challenge</h1>
 
 > Status: Developing
 
-<p align="center">Desafio CloudOpss</p>
+<p align="center">CloudOpss Challenge</p>
  <p align="center">
  <a href="#about">About</a>
  <a href="#tasks">Tasks</a>
@@ -42,7 +42,7 @@ Before start, you will need have installed in your machine this tool [Python](ht
 
 1) Clone this repository and make the downloads
 
-3) Install the requirements.txt using this code in yout shell
+3) Install the requirements.txt using this code in your shell
 
 ```bash
 pip install -r requirements.txt
