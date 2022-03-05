@@ -79,7 +79,7 @@ python manage.py runserver
 
 # Author
 
-Made with 💙 by Nathan Nonato 👨‍💻 [See my LinkedIn](https://www.linkedin.com/in/nathannonatobaptista/)
+All by my heart 💙 by Nathan Nonato 👨‍💻 [See my LinkedIn](https://www.linkedin.com/in/nathannonatobaptista/)
 
 # Gifs
 
