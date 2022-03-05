@@ -67,11 +67,11 @@ DATABASES = {
 ```bash
 python manage.py makemigrations
 ```
-after
+After
 ```bash
 python manage.py migrate
 ```
-after
+And finally
 ```bash
 python manage.py runserver
 ```
