@@ -48,9 +48,9 @@ Before start, you will need have installed in your machine this tool [Python](ht
 pip install -r requirements.txt
 ```
 
-4) Make a account in MongoDB site, do a Cluster and download MongoDB Compass
+4) Make an account in MongoDB site, make a Cluster and download MongoDB Compass
 
-6) Configure your MongoDB username and password in DATABASE in Settings.py
+6) Configure your MongoDB username and password in DATABASE on Settings.py
 ```bash
 DATABASES = {
     'default': {
